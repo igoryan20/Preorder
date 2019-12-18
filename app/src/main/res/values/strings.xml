@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameForManAndGirl</string>
+    <string-array name="food">
+        <item>Борщ</item>
+        <item>Оливье</item>
+    </string-array>
+</resources>
